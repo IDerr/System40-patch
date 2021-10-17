@@ -1,2 +1,2 @@
 # System40-patch
-Assembly patch to get accentued accent wirh System40
+Assembly patch to get accentued accent with System40
